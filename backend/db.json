@@ -1,0 +1,166 @@
+{
+	"products": [
+    {
+        "id": "101",
+        "description": "Dell Latitude E6420 14 Inch Laptop (Core I7 2460M/16GB/512GB SSD/Nvidia Dedicated Graphics/Windows Professional/MS Office), Dark Grey",
+        "specifications": [
+            "Core I7 2640M Dual Core 2.9 Ghz processor to provide top notch performance16GB Ram and 512GB SSD to provide lag free fast performance. Long battery backup (4 hr+*) to ensure you remain prodictive for long hrs.",
+            "Work in your comfort zone with 180-degree LCD movement and tactile keyboard with best feedback.",
+            "Look sharp while working hard thanks to the Dell Tri-MetalTM casing with an anodized, brushed aluminum finish. Spill-resistant keyboard and LCD protective bumper to protect your Screen Strong steel hinges and rugged closing latch to the durable powder-coated un- derside that helps guard against nicks and scratches.",
+            "Communicate effectively worldwide with array microphones and a high-performing antenna for ideal mobile broadband connections Connect anyway you like wth Network connector (RJ-45); USB 2.0 (4) – 1 USB/eSATA combo; Stereo headphone/ Microphone combo jack, Memory card reader, 54 mm ExpressCard, 1394, Docking Connector, VGA, HDMI, 1 Full and 2 Half Mini Card Slots, integrated modem (RJ-11) option, TPM 1.21",
+            "Know your data is secure with Dell’s Data Protection | Encryption and protect your data from the unexpectedmishaps with Dell Fast Response Free-Fall Sensor and StrikeZone. Control who has access to your data with Dell Data Protection . Help prevent system viruses and contain data leaks with port control options"
+        ],
+        "sku": "917",
+        "price": 55000,
+        "quantity": "1052",
+        "sellers": [
+            "Samay Enterprises",
+            "Nayasa"
+        ],
+        "category": "electronics",
+        "subCategory": "laptop",
+        "brand": "Dell",
+        "images": [
+            "https://via.placeholder.com/180/343a40/FFFFFF?text=Laptop",
+            "resources/images/electronics/laptop/dell/E6420_2",
+            "resources/images/electronics/laptop/dell/E6420_3",
+            "resources/images/electronics/laptop/dell/E6420_4",
+            "resources/images/electronics/laptop/dell/E6420_5"
+        ],
+		"status": "In Stock"
+    },
+    {
+        "id": "102",
+        "description": "HP Elitebook s360 830 G6 13.3-inch Laptop (8th Gen Intel Core i5-8250U/8GB/512GB SSD/Windows 10 Pro/Intel UHD 620 Graphics), Silver",
+        "specifications": [
+            "1.6GHz Intel Core i5-8250U 8th Gen processor",
+            "8GB DDR4 RAM",
+            "hard drive",
+            "13.3-inch screen, Intel UHD 620 Graphics",
+            "Windows 10 Pro operating system",
+            "1.35kg laptop"
+        ],
+        "sku": "944",
+        "price": 93550,
+        "quantity": "730",
+        "sellers": [
+            "Utkal",
+            "Appario Retail"
+        ],
+        "category": "electronics",
+        "subCategory": "laptop",
+        "brand": "HP",
+        "images": [
+            "https://via.placeholder.com/180/343a40/FFFFFF?text=Laptop",
+            "resources/images/electronics/laptop/HP/elitebook745g6_2"
+        ],
+		"status": "In Stock"
+    },
+	{
+        "id": "103",
+        "description": "Patanjali Mustard Oil, 1L",
+        "specifications": [
+            "Mustard oil is highly recommended for the reason that it is full of monounsaturated fatty acids (MUFA)",
+            "According to a study done by the American Journal of Clinical Nutrition, including mustard oil in your regular diet could prove to be beneficial to your heart health",
+            "Mustard oil has anti-bacterial, anti-fungal and anti-viral properties. Its external as well as internal usage is said to help in multiple ways to fight against infections, including digestive tract infections",
+            "Mustard oil, because of its anti-microbial properties, it is used as a preservative for pickles",
+            "Mustard oil has oleic acid and linoleic acid which are essential fatty acids that make it a good hair tonic. Hair massage with this oil is said to increase blood circulation and promote hair growth"
+        ],
+        "sku": "41835",
+        "price": 159.75,
+        "quantity": "7291",
+        "sellers": [
+            "Local Oil Dealer",
+            "Healthy Choice"
+        ],
+        "category": "grocery",
+        "subCategory": "dailyNeeds",
+        "brand": "Patanjali",
+        "images": [
+			"https://via.placeholder.com/180/343a40/FFFFFF?text=Oil"
+        ],
+		"status": "In Stock"
+    },
+    {
+        "id": "104",
+        "description": "Tata Salt Lite, Low Sodium, 1kg",
+        "specifications": [
+            "Low-sodium salt specially formulated to provide 15% lower sodium than regular salt",
+            "Designed to provide consumers a convenient means to take preventive measures towards keeping the blood pressure and weight of family members in check",
+            "A low sodium salt that would assist management of blood pressure without compromising on the taste of food"
+        ],
+        "sku": "41822",
+        "price": 31.50,
+        "quantity": "20000",
+        "sellers": [
+            "Tata Sampan"
+        ],
+        "category": "grocery",
+        "subCategory": "dailyNeeds",
+        "brand": "HP",
+        "images": [
+			"https://via.placeholder.com/180/343a40/FFFFFF?text=Salt",
+            "resources/images/grocery/dailyNeeds/tataSaltLite_1"
+        ],
+		"status": "In Stock"
+    },
+	 {
+        "id": "105",
+        "description": "Redmi Note 10 (Shadow Black, 4GB RAM, 64GB Storage)",
+        "specifications": [
+            "Display: FHD+ (1080x2400) AMOLED Dot display; 16.33 centimeters (6.43 inch); 20:9 aspect ratio",
+            "Camera: 48 MP Quad Rear camera with 8MP Ultra-wide, 2MP Macro and Portrait lens| 13 MP Front camera",
+            "Battery: 5000 mAh large battery with 33W fast charger in-box and Type-C connectivity",
+            "Processor: Qualcomm Snapdragon 678 with Kryo 460 Octa-core; 11nm process; Up to 2.2GHz clock speed",
+            "Memory, Storage & SIM: 4GB RAM | 64GB UFS 2.2 storage expandable up to 512GB with dedicated SD card slot | Dual SIM (nano+nano) dual standby (4G+4G)"
+        ],
+        "sku": "420",
+        "price": 1000,
+        "quantity": "100",
+        "sellers": [
+            "Shadow",
+            "Kumars",
+            "RK"
+        ],
+        "category": "electronics",
+        "subCategory": "mobile",
+        "brand": "Xaomi",
+        "images": [
+			"https://via.placeholder.com/180/343a40/FFFFFF/?text=Mobile",
+            "resources/images/electronics/mobile/xaomi/note10_1",
+            "resources/images/electronics/mobile/xaomi/note10_2",
+            "resources/images/electronics/mobile/xaomi/note10_3"
+        ],
+		"status": "In Stock"
+    },
+    {
+        "id": "106",
+        "description": "New Apple iPhone 12 (64GB) - Black",
+        "specifications": [
+            "6.1-inch (15.5 cm diagonal) Super Retina XDR display",
+            "Ceramic Shield, tougher than any smartphone glass",
+            "A14 Bionic chip, the fastest chip ever in a smartphone",
+            "Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording",
+            "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+            "Industry-leading IP68 water resistance",
+            "Supports MagSafe accessories for easy attach and faster wireless charging",
+            "iOS with redesigned widgets on the Home screen, all-new App Library, App Clips"
+        ],
+        "sku": "840",
+        "price": 77000,
+        "quantity": "10",
+        "sellers": [
+            "Khan Bros"
+        ],
+        "category": "electronics",
+        "subCategory": "mobile",
+        "brand": "Apple",
+        "images": [
+			"https://via.placeholder.com/180/343a40/FFFFFF/?text=Mobile",
+            "resources/images/electronics/mobile/apple/iphone12_1",
+            "resources/images/electronics/mobile/apple/iphone12_2"
+        ],
+		"status": "In Stock"
+    }
+]
+}
